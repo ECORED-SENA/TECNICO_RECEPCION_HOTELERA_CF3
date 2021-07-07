@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 6
-      .h3 Venta
+        .h1 6
+      .h1.mt-4 Venta
 
     img(src="@/assets/curso/tema6/1.svg")
 

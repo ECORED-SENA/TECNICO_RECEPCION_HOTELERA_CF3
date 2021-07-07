@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 Usuarios servicios turísticos
+        .h1 1
+      .h1.mt-4 Usuarios servicios turísticos
 
     p.mt-4 Los usuarios turísticos son aquellas personas físicas que utilizan los establecimientos, instalaciones y recursos turísticos, o reciben los bienes y servicios que ofrecen las empresas y profesionales del sector. 
 

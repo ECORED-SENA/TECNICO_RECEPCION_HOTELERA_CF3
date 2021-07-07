@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 4
-      .h3 Negociación
+        .h1 4
+      .h1.mt-4 Negociación
 
     img(src="@/assets/curso/tema4/1.svg")
 

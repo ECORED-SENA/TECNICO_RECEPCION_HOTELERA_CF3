@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Servicio al cliente
+        .h1 2
+      .h1.mt-4 Servicio al cliente
 
     img.mt-4(src='@/assets/curso/tema2/1.svg' alt='Avatar')
 

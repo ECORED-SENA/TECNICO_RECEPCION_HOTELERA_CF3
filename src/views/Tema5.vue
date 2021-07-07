@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 5
-      .h3 Cotización
+        .h1 5
+      .h1.mt-4 Cotización
 
     img(src="@/assets/curso/tema5/1.svg")
 

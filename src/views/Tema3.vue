@@ -5,8 +5,8 @@
   
     .titulo-principal
       .titulo-principal__numero
-        .h3 3
-      .h3 Comunicación
+        .h1 3
+      .h1.mt-4 Comunicación
 
     img(src="@/assets/curso/tema3/1.svg")
 
