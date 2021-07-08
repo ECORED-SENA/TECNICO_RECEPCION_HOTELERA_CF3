@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Habilidades de comunicación y técnicas de venta.',
     descripcionCurso:
-      'La industria hotelera tiene como principal objetivo la prestación del servicio al cliente, por ello mediante este componente se hace necesario identificar las necesidades de este, a través de las técnicas de comunicación que se emplean entre el usuario y quien presta los diferentes servicios. ',
+      'La industria hotelera tiene como principal objetivo la prestación del servicio al cliente, por ello, mediante este componente se hace necesario identificar las necesidades de este, a través de las técnicas de comunicación que se emplean entre el usuario y quien presta los diferentes servicios.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -268,92 +268,81 @@ export default {
     ],
     contenidoInstruccional: [
       {
-        nombre: 'Gloria Matilde Lee Mejía',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        nombre: 'Sandra Isabel Suarez Delgado',
+        cargo: 'Instructor',
+        centro: 'Centro de Servicios y Gestión Empresarial',
       },
       {
-        nombre: 'Javier Enrique Santana',
-        cargo: 'Experto temático',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
+        nombre: 'Leidy Carolina Arias Aguirre',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Julieth Paola Vital López',
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora Metodológica y Pedagógica',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        cargo: 'Responsable equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
+        nombre: 'Leyson Fabian Castaño Pérez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        nombre: '',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        nombre: '',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        nombre: '',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Luis Jesús Pérez Madariaga',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Rafael Augusto Mantilla López',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
   },

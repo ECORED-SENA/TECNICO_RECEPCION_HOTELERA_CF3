@@ -24,21 +24,21 @@
         .col-auto
           img(src="@/assets/curso/tema3/2.svg")
         .col
-          p.mt-3 #[strong Emisor:] Es quien transmite el mensaje.
+          p.mt-3 #[strong Emisor:] es quien transmite el mensaje.
 
     .col-10.mt-2
       .row.p-3(style="background-color:#FFE2B8;border-radius:7px;")
         .col-auto
           img(src="@/assets/curso/tema3/3.svg")
         .col
-          p.mt-3 #[strong Receptor:] Es el que recibe el mensaje.
+          p.mt-3 #[strong Receptor:] es el que recibe el mensaje.
 
     .col-10.mt-2
       .row.p-3(style="background-color:#FFE2B8;border-radius:7px;")
         .col-auto
           img(src="@/assets/curso/tema3/4.svg")
         .col
-          p.mt-3 #[strong Código:]  es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos).
+          p.mt-3 #[strong Código:] es el conjunto de signos que serán utilizados para crear el mensaje (palabras, gestos, símbolos).
 
     .col-10.mt-2
       .row.p-3(style="background-color:#FFE2B8;border-radius:7px;")
@@ -86,31 +86,31 @@
       .row
         .col-6
           img(src="@/assets/curso/tema3/10.svg")
-          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:300px;")
+          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:330px;")
             p #[strong Lenguaje Verbal]
 
             p.mt-3 Se refiere a la comunicación que se vale de la palabra para dar el mensaje, es la principal forma de comunicación que se utiliza. Puede ser oral o escrita
 
         .col-6
           img(src="@/assets/curso/tema3/11.svg")
-          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:300px;")
+          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:330px;")
             p #[strong Comunicación oral]
 
-            p.mt-3 Es el intercambio de mensajes a través del habla. La voz juega un papel muy importante en nuestro contacto con el cliente.  Debemos ser directos al hablar. Evitar “muletillas o gaguear” Y sobre todo, evitar la voz postiza o fingida. La presentación personal, el espacio adecuado para atender al cliente y mantener un contacto visual.
+            p.mt-3 Es el intercambio de mensajes a través del habla. La voz juega un papel muy importante en nuestro contacto con el cliente.  Debemos ser directos al hablar. Evitar “muletillas o gaguear” y sobre todo, evitar la voz postiza o fingida. La presentación personal, el espacio adecuado para atender al cliente y mantener un contacto visual.
 
       .row.mt-4
         .col-6
           img(src="@/assets/curso/tema3/12.svg")
-          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:300px;")
+          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:330px;")
             p #[strong Comunicación escrita.]
 
-            p.mt-3 En este caso, el proceso comunicacional ocurre a través del lenguaje escrito. Ejemplo: carta, mensajes de texto, correos electrónicos. 
+            p.mt-3 En este caso, el proceso comunicacional ocurre a través del lenguaje escrito. #[strong Ejemplo:] carta, mensajes de texto, correos electrónicos. 
 
             p.mt-3 El contenido del mensaje es riguroso y preciso, lógico y claro aplicando normas gramaticales y reglas de acentuación.
 
         .col-6
           img(src="@/assets/curso/tema3/13.svg")
-          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:300px;")
+          .p-4(style="background-color:#F3F9FF;border-radius:7px;min-height:330px;")
             p #[strong Lenguaje no verbal]
 
             p.mt-3 Son todos los gestos que consciente e inconscientemente transmitimos en nuestras relaciones interpersonales y que dan cuenta de nuestras posiciones acerca de lo que el otro dice o hace.
@@ -244,7 +244,7 @@
       .col
         p.mt-3 También está la comunicación agresiva que aparece cuando se mantiene una defensa de los derechos personales y opiniones propias por encima de todo y de una manera inapropiada y exigente, vulnerando los derechos de las otras personas.
 
-        p.mt-3 La pasiva, en la cual se vulneran los propios derechos al no ser capaz de expresar libremente las ideas, opiniones o sentimientos, lo que conlleva a no ser escuchados o que se le preste atención.
+        p.mt-3 Y finalmente, está la comunicación pasiva, en la cual se vulneran los propios derechos al no ser capaz de expresar libremente las ideas, opiniones o sentimientos, lo que conlleva a no ser escuchados o que se le preste atención.
 
         p.mt-3 Por lo tanto, la asertividad es la herramienta para utilizar cuando de comunicarse se trata, se puede aprender mediante la práctica, lo que hará que las comunicaciones sean más positivas.
 
@@ -297,6 +297,11 @@
           img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
         .col
           p La limpieza
+      .row.mt-2
+        .col-auto
+          img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
+        .col
+          p Las palabras justas en el momento exacto y oportuno
 
     .titulo-segundo.mt-5
       #t_3_5.h4 3.5 Canales de atención
@@ -359,6 +364,10 @@
 
             p.mt-3 La voz tiene que ser clara y sonriente, el lenguaje preciso y adaptado al cliente y expresarse con educación y simpatía.
 
+    p.mt-5 En la empresa turística el trato con el cliente es el trabajo en sí por lo tanto la atención al cliente en cualquiera de sus servicios es su objetivo primordial.
+
+    p.mt-3 Escuchar atentamente lo que el cliente quiere expresar, de esta manera se podrá dar respuesta a su solicitud. Si el cliente se siente comprendido, se sentirá atendido correctamente y desencadenará buenas referencias del servicio recibido.  Se pueden utilizar pequeñas aseveraciones como: #[strong “si, por supuesto”], #[strong “claro”] o #[strong “lo entiendo”].
+
     img.mt-5(src="@/assets/curso/tema3/28.svg" style="max-width:80px;")
 
     p.mt-4 #[strong Reglas para el buen uso del teléfono.]
@@ -379,7 +388,7 @@
       .col-auto
         img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
       .col
-        p Presentarse identificándose asÍ mismo y la empresa en la que trabaja.
+        p Presentarse identificándose a sí mismo y la empresa en la que trabaja.
 
     .row.mt-2
       .col-auto
@@ -427,7 +436,7 @@
       .col-auto
         img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
       .col
-        p En caso de no poder dar respuesta inmediata, dejarlo saber al cliente e informarle plazo aproximado para resolución del mismo.
+        p En caso de no poder dar respuesta inmediata, dejarlo saber al cliente e informarle plazo aproximado para resolución de este.
 
     .row.mt-2
       .col-auto
@@ -481,7 +490,7 @@
       .col-auto
         img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
       .col
-        p Al despedirse hacerlos con amabilidad y con expresiones corteses de despedida.
+        p Al despedirse hacerlo con amabilidad y con expresiones corteses de despedida.
 
 
     .row.mt-5
@@ -526,7 +535,7 @@
 
           p.mt-3 Donde el emisor y el receptor intercambian papeles continuamente. #[strong Ejemplo:] solicitud que requiere respuesta inmediata.
 
-    p.mt-4 #[strong Clasificación según la explotación de los datos]
+    p.mt-4 #[strong  Clasificación según la trasmisión]
 
     .col-10.mt-4
       .row
@@ -538,7 +547,7 @@
               .col
                 p #[strong Sincrónica:]
 
-                p.mt-2 chat, videoconferencias.
+                p.mt-2 Chat, videoconferencias.
 
         .col-6.mb-3
           .p-3(style="background-color:#FFF8EC;border-radius:7px;")
@@ -548,7 +557,7 @@
               .col
                 p #[strong Asincrónica:]
 
-                p.mt-2 correo electrónico, foros.
+                p.mt-2 Correo electrónico, foros.
 
     p.mt-4 #[strong Técnicas de comunicación telemática]
 

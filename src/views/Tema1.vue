@@ -63,12 +63,12 @@
           p(style="color:#12263F;font-weight:bold;") Para ampliar la información, te invitamos a leer el artículo “Diferencias entre un turista y un viajero”, el cual se encuentra en el material complementario.
 
     .row.mt-5
-      .col-auto.mb-3
+      .col-md-5.mb-3
         .text-center
           img(src='@/assets/curso/tema1/4.svg' alt='Avatar')
 
-      .col.mt-5
-        .p-4(style="background-color:#FFF1DB;")
+      .col-md-7.mt-5
+        .p-4(style="background-color:#FFF1DB;height:100%;")
           p #[strong Pasajeros]
 
           p.mt-4 Término que se refiere a una persona que realiza un viaje en algún tipo de medio de transporte, sin ser quien lo conduce y sin formar parte de la tripulación. 
@@ -103,7 +103,7 @@
     .titulo-segundo.mt-5
       #t_1_3.h4 1.3 Teoría de las necesidades
 
-    p.mt-4 El psicólogo Abraham H. Maslow (1943) afirmó que todos los seres humanos están perpetuamente deseando y que sus necesidades son psicológicas y sociales. Estableció una jerarquía de las necesidades y determinó que a medida que les dé un orden inferior se satisfacen, surgen otras de rango superior. Esto se justifica porque la percepción de los deseos no es absoluta, es decir, cuanto mayor es la satisfacción de un deseo, menor es la necesidad de satisfacerlo.
+    p.mt-4 El psicólogo Abraham H. Maslow (1943) afirmó que todos los seres humanos están perpetuamente deseando y que sus necesidades son psicológicas y sociales. Estableció una jerarquía de las necesidades y determinó que a medida que les dé un orden inferior se satisfacen y surgen otras de rango superior. Esto se justifica porque la percepción de los deseos no es absoluta, es decir, cuanto mayor es la satisfacción de un deseo, menor es la necesidad de satisfacerlo.
 
     p.mt-3 #[strong A continuación te presentamos la pirámide que presenta la teoría de las necesidades humanas, elaborada por Maslow.]
 
@@ -116,33 +116,39 @@
       .p-4(style="background-color:#FFF3EB;")
         p #[strong Necesidades básicas o fisiológicas:]
 
-        p.mt-3 son las únicas inherentes en toda persona, básicas para la supervivencia del ser humano como respirar, alimentarse, vestirse, sexo, etc.
+        p.mt-3 Son las únicas inherentes en toda persona, básicas para la supervivencia del ser humano como respirar, alimentarse, vestirse, sexo, etc.
 
     .col-10.mt-3
       .p-4(style="background-color:#FFF3EB;")
         p #[strong Necesidades de seguridad:]
 
-        p.mt-3 busca crear y mantener una situación de orden y seguridad física (salud), económica (ingresos), necesidad de vivienda, etc.
+        p.mt-3 Busca crear y mantener una situación de orden y seguridad física (salud), económica (ingresos), necesidad de vivienda, etc.
 
     .col-10.mt-3
       .p-4(style="background-color:#FFF3EB;")
         p #[strong Necesidades sociales:]
 
-        p.mt-3 implica el sentido de pertenencia a un grupo social, familiar, de amigos, pareja, etc.
+        p.mt-3 Implica el sentido de pertenencia a un grupo social, familiar, de amigos, pareja, etc.
 
     .col-10.mt-3
       .p-4(style="background-color:#FFF3EB;")
         p #[strong Necesidades de estima o reconocimiento:]
 
-        p.mt-3 como la confianza, la independencia personal, las metas financieras, la reputación.
+        p.mt-3 Como la confianza, la independencia personal, las metas financieras, la reputación.
 
     .col-10.mt-3
       .p-4(style="background-color:#FFF3EB;")
         p #[strong Necesidades de autorrealización:]
 
-        p.mt-3 sólo puede ser satisfecho una vez cuando todas las demás necesidades han sido alcanzadas de manera suficiente. Es la sensación de haber llegado al éxito personal.
+        p.mt-3 Sólo puede ser satisfecho una vez cuando todas las demás necesidades han sido alcanzadas de manera suficiente. Es la sensación de haber llegado al éxito personal.
 
     p.mt-5 Utilizando este modelo de pirámide las empresas conocen los comportamientos de los individuos y por lo tanto lo que motiva a los clientes a comprar, así se utiliza como instrumento para que compren lo que se vende cubriendo y satisfaciendo una necesidad y no vayan a la competencia.
+
+    .col-md-10.m-auto.text-center
+      figure.mt-5
+        img(src="@/assets/curso/tema1/25.svg")
+
+    p.mt-5 La demanda turística es el conjunto de bienes y servicios que los turistas están dispuesto a adquirir en un determinado destino, incluye el consumo y la experiencia de lugares, su motivación principal recae en el destino turístico, entre los factores que influyen en esta demanda son el poder económico, disponibilidad de tiempo y otros factores que le motiven. La variación de los precios en relación con destinos y servicios similares, la falta de opciones de transporte y la diversidad de productos turísticos, entre otros, pueden afectar la demanda turística por un determinado destino. Schnarch Kirberg, Alejandro. (2017) Marketing de Fidelización. 
 
     .row.mt-5
       .col-6.mb-3

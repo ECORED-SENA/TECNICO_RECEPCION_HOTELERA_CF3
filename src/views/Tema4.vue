@@ -48,21 +48,21 @@
             img(src="@/assets/curso/tema4/2.svg")
           .col.mt-3
             h6 Preparación:
-            p.mt-3 identificar lo que se va a negociar, la posición y la estrategia a usar. Determinar los objetivos y posibles concesiones, lo que favorece, hasta donde se está dispuesto a ceder y la estrategia negociadora a seguir. 
+            p.mt-3 Identificar lo que se va a negociar, la posición y la estrategia a usar. Determinar los objetivos y posibles concesiones, lo que favorece, hasta donde se está dispuesto a ceder y la estrategia negociadora a seguir. 
 
         .row.mt-4
           .col-auto
             img(src="@/assets/curso/tema4/3.svg")
           .col.mt-3
             h6 Desarrollo:
-            p.mt-3 se da un diálogo entre las partes utilizando argumentaciones, #[strong hay que escuchar atentamente para conocer la oferta y la demanda], es donde se presentan alternativas de producto o conocimiento de las necesidades, la buena comunicación juega un papel muy importante.
+            p.mt-3 Se da un diálogo entre las partes utilizando argumentaciones, #[strong hay que escuchar atentamente para conocer la oferta y la demanda], es donde se presentan alternativas de producto o conocimiento de las necesidades, la buena comunicación juega un papel muy importante.
 
         .row.mt-4
           .col-auto
             img(src="@/assets/curso/tema4/4.svg")
           .col.mt-3
             h6 Cierre:
-            p.mt-3 las partes aceptan una alternativa de acuerdo al desarrollo de la negociación y se comprometen a cumplir.
+            p.mt-3 Las partes aceptan una alternativa de acuerdo al desarrollo de la negociación y se comprometen a cumplir.
 
     .titulo-segundo.mt-5
       #t_4_3.h4 4.3 Técnicas

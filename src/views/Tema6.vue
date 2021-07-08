@@ -76,7 +76,9 @@
 
     p.mt-4 La comunicación es el elemento fundamental dentro de las técnicas de ventas se da presencial y no presencial (telefónicamente o escrita).
 
-    img.mt-5(src="@/assets/curso/tema6/8.svg")
+    h3.mt-5 ETAPAS EN EL PROCESO DE VENTAS
+
+    img.mt-2(src="@/assets/curso/tema6/8.svg")
 
     p.mt-5 En la venta se repiten las fases de la negociación desde la planificación del producto a ofrecer, acercamiento o presentación del producto o servicio, argumentación del ofrecimiento y/o manejo de las objeciones y cierre. Dentro de algunas técnicas podemos mencionar
 
@@ -93,7 +95,7 @@
     p.mt-5 #[strong Técnica SPIN]
     p.mt-2 Consiste en obtener el máximo de información por parte del cliente con base en hacer una cantidad de preguntas, con el fin de ofrecerle un mejor servicio.
 
-    p.mt-4 #[strong Situación:] preguntas que ayudan a identificar que motiva al cliente a comprar.
+    p.mt-4 #[strong Situación:] preguntas que ayudan a identificar qué motiva al cliente a comprar.
 
     p.mt-2 #[strong Problema:] preguntas para detectar las dificultades o indecisiones del cliente para ayudarle a que se sienta comprendido.
 
@@ -137,7 +139,7 @@
 
         p.mt-3 Las objeciones son los obstáculos que se presentan en un momento determinado, se utiliza el “no” o el “pero” por parte del cliente, esto lo puede hacer para asegurarse que el producto o servicio cumplirá sus expectativas. 
 
-        p.mt-3 Es necesario que el vendedor desarrolle la habilidad para dar un manejo acertado y se efectúe  la venta, por esta razón necesitará conocer muy bien los servicios que se ofrecen en el establecimiento, y tener la capacidad de trasmitir la información y dar la seguridad al cliente que obtendrá lo que está buscando.
+        p.mt-3 Es necesario que el vendedor desarrolle la habilidad para dar un manejo acertado y se efectúe  la venta, por esta razón necesitará conocer muy bien los servicios que se ofrecen en el establecimiento, y tener la capacidad de transmitir la información y dar la seguridad al cliente que obtendrá lo que está buscando.
 
       .col-auto
         img(src="@/assets/curso/tema6/9.svg")
@@ -148,7 +150,7 @@
 
         p.mt-3 Mediante el proceso de venta se utilizan argumentos y material de apoyo, que permiten captar la atención e interés del usuario, no obstante, durante el desarrollo se pueden presentar errores de apreciación, lo cual obstaculiza la venta, sin embargo se entiende que la tarea principal del vendedor es lograr que el usuario realice la compra o utilice el servicio que se le está ofreciendo.
 
-        p.mt-3 Posterior al proceso mencionado se realiza el cierre de la venta en donde su objetivo principal es precisamente que el cliente realice la solicitud formal del producto o servicio. En este parte del proceso el vendedor siempre debe actuar con actitud positiva demostrando que se ha llegado a un acuerdo, y concluirá mencionando los beneficios que el cliente está aceptando. 
+        p.mt-3 Posterior al proceso mencionado se realiza el cierre de la venta en donde su objetivo principal es precisamente que el cliente realice la solicitud formal del producto o servicio. En esta parte del proceso el vendedor siempre debe actuar con actitud positiva demostrando que se ha llegado a un acuerdo, y concluirá mencionando los beneficios que el cliente está aceptando. 
 
       .col-auto
         img(src="@/assets/curso/tema6/10.svg")

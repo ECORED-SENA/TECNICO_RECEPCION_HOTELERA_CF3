@@ -37,19 +37,19 @@
         .p-4(style="background-color:#FFF1DB;min-height:600px;border-radius:7px;")
           img(src="@/assets/curso/tema5/3.svg" style="max-width:30px;")
           p.mt-3 #[strong Negocios:]
-          p.mt-3 las empresas realizan viajes y eventos para sus funcionarios o clientes, por tanto, solicitan información de las tarifas de los servicios que el establecimiento ofrece con el fin de realizar sus actividades empresariales.  La cotización se presenta con el valor de los espacios de acuerdo con el número de participantes, horarios, alimentos y bebidas, ayudas audiovisuales y de sonido, y demás elementos necesarios para el desarrollo del evento. Un documento muy utilizado por las empresas para solicitar un presupuesto o cotización es el RFP, (Request for proposal) por su siglas en ingles.
+          p.mt-3 Las empresas realizan viajes y eventos para sus funcionarios o clientes, por tanto, solicitan información de las tarifas de los servicios que el establecimiento ofrece con el fin de realizar sus actividades empresariales.  La cotización se presenta con el valor de los espacios de acuerdo con el número de participantes, horarios, alimentos y bebidas, ayudas audiovisuales y de sonido, y demás elementos necesarios para el desarrollo del evento. Un documento muy utilizado por las empresas para solicitar un presupuesto o cotización es el RFP, (Request for proposal) por su siglas en inglés.
 
       .col-4
         .p-4(style="background-color:#FFF1DB;min-height:600px;border-radius:7px;")
           img(src="@/assets/curso/tema5/3.svg" style="max-width:30px;")
           p.mt-3 #[strong Sociales:]
-          p.mt-3 eventos como matrimonios, cumpleaños, aniversarios, grados, entre otros; se realizan dentro de los establecimientos hoteleros que ofrecen estos servicios, estas cotizaciones incluyen información de las tarifas del espacio a utilizar de acuerdo con el número de participantes, de alimentos y bebidas, y otros.
+          p.mt-3 Eventos como matrimonios, cumpleaños, aniversarios, grados, entre otros; se realizan dentro de los establecimientos hoteleros que ofrecen estos servicios, estas cotizaciones incluyen información de las tarifas del espacio a utilizar de acuerdo con el número de participantes, de alimentos y bebidas, y otros.
 
       .col-4
         .p-4(style="background-color:#FFF1DB;min-height:600px;border-radius:7px;")
           img(src="@/assets/curso/tema5/3.svg" style="max-width:30px;")
           p.mt-3 #[strong Grupos:]
-          p.mt-3 cuando se requiere alojamiento de un número superior a 10 habitaciones usualmente se le considera grupo, la cotización se genera de una manera diferente ya que se establecen ofertas y tratamientos especiales tanto en acomodación como en los servicios de alimentos y bebidas.
+          p.mt-3 Cuando se requiere alojamiento de un número superior a 10 habitaciones usualmente se le considera grupo, la cotización se genera de una manera diferente ya que se establecen ofertas y tratamientos especiales tanto en acomodación como en los servicios de alimentos y bebidas.
 
     p.mt-5 #[strong Cotización de servicios complementarios]
     p Algunos establecimientos no solo ofrecen los servicios de alojamiento y/o eventos, también pueden ofrecer servicios de restaurante, bar, gimnasio, spa, piscina entre otros, estos servicios pueden ser usados sin requerir el servicio de alojamiento, por lo cual también el cliente puede solicitar cotización para determinar hacer el uso de ellos.
@@ -60,7 +60,7 @@
     .titulo-segundo.mt-5
       #t_5_3.h4 5.3 Procedimiento
 
-    p.mt-4 El cliente realiza el primer contacto buscando la información de acuerdo con su necesidad, el personal encargado dentro del establecimiento de alojamiento puede ser el área de ventas, el área de reservas o recepción. 
+    p.mt-4 El cliente realiza el primer contacto, buscando la información de acuerdo con su necesidad, con el personal encargado dentro del establecimiento de alojamiento puede ser el área de ventas, el área de reservas o recepción.
 
     p.mt-4 #[strong El siguiente es el ciclo de una cotización:]
 
@@ -86,7 +86,7 @@
             .col-auto.p-1
               img(src="@/assets/curso/tema5/7.png")
             .col
-              h6(style="margin-top:11px;") Recepción y registro de la solicitud.
+              h6(style="margin-top:11px;") Recepción y registro de la solicitud (R.F.P).
 
         .col-6
           .row.m-0(style="background-color:#FFD494;border-radius:35px;")
@@ -177,13 +177,13 @@
       .col-auto
         img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
       .col
-        p Tarifa
+        p Tarifa.
 
     .row.mt-2
       .col-auto
         img.mt-1(src='@/assets/curso/tema3/18.svg', alt='Avatar')
       .col
-        p Otros servicios
+        p Otros servicios.
 
 </template>
 
