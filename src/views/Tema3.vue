@@ -323,7 +323,7 @@
 
         p.mt-3 En la hotelería el personal debe estar preparado para tratar a todos de la manera más profesional, con prontitud, dar respuestas convenientes y solucionar dudas y problemas que tengan los clientes, y no olvidar que su objetivo principal es #[strong “vender servicios”].
  
-        p.mt-3 Dentro de las recomendaciones se encuentra tener siempre a mano papel y bolígrafo para tomar notas, #[strong tener la información que se va a proporcionar, estar ubicado en un espacio con la menor interferencia posible], conocer el nombre de los clientes, contar con una base de datos que proporciones información del cliente cuando llame, un listado de extensiones en caso de requerir transferir la llamada, etc.
+        p.mt-3 Dentro de las recomendaciones se encuentra tener siempre a mano papel y bolígrafo para tomar notas, #[strong tener la información que se va a proporcionar, estar ubicado en un espacio con la menor interferencia posible], conocer el nombre de los clientes, contar con una base de datos que proporcione información del cliente cuando llame, un listado de extensiones en caso de requerir transferir la llamada, etc.
     br
     .col-10.mt-5
       .row

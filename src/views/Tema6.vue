@@ -27,7 +27,7 @@
               .col-auto
                 img(src="@/assets/curso/tema6/2.svg")
               .col
-                p.mt-3 Qué busca el cliente que llama.
+                p.mt-3 ¿Qué busca el cliente que llama?
 
         .col-6
           .p-3(style="background-color:#F3F9FF;border-radius:7px;")

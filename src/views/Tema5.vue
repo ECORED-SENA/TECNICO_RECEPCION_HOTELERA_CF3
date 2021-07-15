@@ -10,7 +10,7 @@
 
     img(src="@/assets/curso/tema5/1.svg")
 
-    p.mt-4 El cliente que requiere los servicios en un establecimiento hotelero quiere conocer los servicios que ofrece y las tarifas, por tanto, la acción de solicitar una cotización se presenta constantemente. Con la llegada del internet, la aparición de las agencias de viaje en línea y de la distribución electrónica, esta consulta de precios ahora está más en el ámbito digital, pero con frecuencia sucede que los clientes tratan de encontrar mejores tarifas solicitando los precios directamente al hotel
+    p.mt-4 El cliente que requiere los servicios en un establecimiento hotelero quiere conocer los servicios que ofrece y las tarifas, por tanto, la acción de solicitar una cotización se presenta constantemente. Con la llegada del internet, la aparición de las agencias de viaje en línea y de la distribución electrónica, esta consulta de precios ahora está más en el ámbito digital, pero con frecuencia sucede que los clientes tratan de encontrar mejores tarifas solicitando los precios directamente al hotel.
 
     .titulo-segundo.mt-5
       #t_5_1.h4 5.1 Definición
