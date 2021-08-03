@@ -315,17 +315,6 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
         nombre: 'Luis Jesús Pérez Madariaga',
         cargo: 'Desarrollo front-end',
         centro:
@@ -368,7 +357,7 @@ export default {
       referencia:
         'Hosteltur. (julio 2016). Seis mega tendencias de la industria hotelera según Sabre. Lugar de publicación:',
       link:
-        'https://www.hosteltur.com/116944_seis-megatendencias-industria-hotelera-sabre.htm',
+        'https://www.hosteltur.com/116944_seis-megatendencias-industria-hotelera-sabre.html',
     },
     {
       referencia:

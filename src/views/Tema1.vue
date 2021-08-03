@@ -144,12 +144,6 @@
 
     p.mt-5 Utilizando este modelo de pirámide las empresas conocen los comportamientos de los individuos y por lo tanto lo que motiva a los clientes a comprar, así se utiliza como instrumento para que compren lo que se vende cubriendo y satisfaciendo una necesidad y no vayan a la competencia.
 
-    .col-md-10.m-auto.text-center
-      figure.mt-5
-        img(src="@/assets/curso/tema1/25.svg")
-
-    p.mt-5 La demanda turística es el conjunto de bienes y servicios que los turistas están dispuesto a adquirir en un determinado destino, incluye el consumo y la experiencia de lugares, su motivación principal recae en el destino turístico, entre los factores que influyen en esta demanda son el poder económico, disponibilidad de tiempo y otros factores que le motiven. La variación de los precios en relación con destinos y servicios similares, la falta de opciones de transporte y la diversidad de productos turísticos, entre otros, pueden afectar la demanda turística por un determinado destino. Schnarch Kirberg, Alejandro. (2017) Marketing de Fidelización. 
-
     .row.mt-5
       .col-6.mb-3
         .p-4(style="background-color:#FFD08C;")
