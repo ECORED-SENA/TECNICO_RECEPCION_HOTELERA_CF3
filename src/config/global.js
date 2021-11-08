@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Habilidades de comunicación y técnicas de venta.',
+    componenteFormativo: 'Servicio, habilidades de comunicación y técnicas de ventas',
     descripcionCurso:
       'La industria hotelera tiene como principal objetivo la prestación del servicio al cliente, por ello, mediante este componente se hace necesario identificar las necesidades de este, a través de las técnicas de comunicación que se emplean entre el usuario y quien presta los diferentes servicios.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
